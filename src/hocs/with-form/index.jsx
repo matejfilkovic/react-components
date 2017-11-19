@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import FormFieldsValidator from '../utils/form-fields-validator'
+import FormFieldsValidator from '../../utils/form-fields-validator'
 
 export default function withForm(
   Component,
